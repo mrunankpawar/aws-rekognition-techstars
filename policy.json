@@ -25,7 +25,7 @@
                 "dynamodb:PutItem"
             ],
             "Resource": [
-                "arn:aws:dynamodb:us-east-1:095658824609:table/techstars_collection"
+                "arn:aws:dynamodb:us-east-1:585008084209:table/techstars_collection"
             ]
         },
         {
